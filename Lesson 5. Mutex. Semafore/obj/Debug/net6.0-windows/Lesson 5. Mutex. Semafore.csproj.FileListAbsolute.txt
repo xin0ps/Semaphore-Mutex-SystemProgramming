@@ -1,0 +1,20 @@
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\bin\Debug\net6.0-windows\Lesson 5. Mutex. Semafore.exe
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\bin\Debug\net6.0-windows\Lesson 5. Mutex. Semafore.deps.json
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\bin\Debug\net6.0-windows\Lesson 5. Mutex. Semafore.runtimeconfig.json
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\bin\Debug\net6.0-windows\Lesson 5. Mutex. Semafore.dll
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\bin\Debug\net6.0-windows\Lesson 5. Mutex. Semafore.pdb
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\obj\Debug\net6.0-windows\Lesson 5. Mutex. Semafore_MarkupCompile.cache
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\obj\Debug\net6.0-windows\Lesson 5. Mutex. Semafore_MarkupCompile.lref
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\obj\Debug\net6.0-windows\Lesson 5. Mutex. Semafore.g.resources
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\obj\Debug\net6.0-windows\Lesson 5. Mutex. Semafore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\obj\Debug\net6.0-windows\Lesson 5. Mutex. Semafore.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\obj\Debug\net6.0-windows\Lesson 5. Mutex. Semafore.AssemblyInfo.cs
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\obj\Debug\net6.0-windows\Lesson 5. Mutex. Semafore.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\obj\Debug\net6.0-windows\Lesson 5. Mutex. Semafore.dll
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\obj\Debug\net6.0-windows\refint\Lesson 5. Mutex. Semafore.dll
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\obj\Debug\net6.0-windows\Lesson 5. Mutex. Semafore.pdb
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\obj\Debug\net6.0-windows\Lesson 5. Mutex. Semafore.genruntimeconfig.cache
+C:\Users\ROG\source\repos\Lesson 5. Mutex. Semafore\Lesson 5. Mutex. Semafore\obj\Debug\net6.0-windows\ref\Lesson 5. Mutex. Semafore.dll
